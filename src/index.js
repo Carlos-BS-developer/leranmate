@@ -19,7 +19,7 @@ const App = () => {
       <UserQuestion />
       <PreguntaComponent
         preguntaData={{
-          titulo: "Sintaxis de JavaScript",
+          titulo: "Sintaxis de JavaScrip",
           descripcion:
             "¿Pueden explicarme la sintaxis básica de JavaScript? Estoy interesado en aprenderlo.",
           usuario: "Carlos",
