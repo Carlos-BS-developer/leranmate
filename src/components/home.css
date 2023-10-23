@@ -1,0 +1,30 @@
+h2{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 60px;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.svg{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.login{
+    text-decoration: none;
+    display: flex;
+    margin: 60px auto;
+    width: 500px;
+    height: 50px;
+    justify-content: center;
+    background-color: #FCF2D6;
+    color: #000000;
+    border-radius: 15px;
+    font-weight: 600;
+    justify-content: center;
+    align-items: center;
+}

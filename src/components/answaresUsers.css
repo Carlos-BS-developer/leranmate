@@ -1,0 +1,64 @@
+.containers{
+    background-color: #212120;
+    margin: 24px auto;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90%;
+}
+
+.section_photos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #212120;
+    margin: 0;
+    padding: 10px;
+}
+
+.container_answares{
+    width: 100%;
+    display: flex;
+    font-weight: 100;
+    margin: 0;
+}
+
+.content h5{
+    font-weight: 400;
+}
+
+.content, h5, p, button{
+    background-color: #212120;
+    margin: 0;
+    padding: 5px;
+}
+
+.content{
+    width: 100%;
+    padding: 0px 40px 0px 10px;
+}
+
+.section_answares{
+    width: 100%;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.inf{
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    height: 100%;
+    background-color: #212120;
+    text-align: center;
+}
+
+.inf button{
+    border: 0;
+    border-radius: 10px;
+    color: black;
+    background-color: #FCF2D6;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
