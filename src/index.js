@@ -6,7 +6,6 @@ import { Home } from "./components/Home";
 import { UserQuestion } from "./components/UserQuestion";
 import PreguntaComponent from "./components/AnswaresUsers";
 import ReplyModal from "./components/ReplyModal";
-// import "conexion.php";
 
 const App = () => {
   const [estadoModal, cambiarEstadoModal] = useState(false);

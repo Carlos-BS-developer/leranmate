@@ -45,12 +45,10 @@
 }
 
 .inf{
-    margin: 0;
-    padding: 0;
     width: 10%;
     height: 100%;
-    background-color: #212120;
     text-align: center;
+    margin: 10px;
 }
 
 .inf button{
@@ -61,4 +59,5 @@
     display: flex;
     width: 100%;
     justify-content: center;
+    cursor: pointer;
 }

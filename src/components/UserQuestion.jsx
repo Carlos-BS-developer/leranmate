@@ -12,7 +12,7 @@ export function UserQuestion() {
                 </svg>
             </div>
             <div className="section_text">
-                <form method="POST" action="conexion.php" className="section_text">
+                <form method="POST" className="section_text">
                     <input type="text" placeholder="Tu Curiosidad, Tu Respuesta: ¿Listo para Preguntar?" className="text"/>
                     <input type="submit" name="" id="" value="" className="submit" />
                 </form>

@@ -2,7 +2,7 @@ import "./subjects.css";
 
 export function Subjects() {
     return <div className="subjects">
-        <h3>Materias</h3>
+        <h3 >Materias</h3>
         <div className="group">
             <a href="" className="materia">
                 Desarrollo de habilidades de P.L
